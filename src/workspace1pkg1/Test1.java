@@ -33,4 +33,12 @@ public class Test1 {
 	public void siddhiTest2() {
 		System.out.println("this is my workspace1");
 	}
+	
+	public void snehaTest1() {
+		System.out.println("this is my workspace1");
+	}
+	
+	public void snehaTest2() {
+		System.out.println("this is my workspace1");
+	}
 }
